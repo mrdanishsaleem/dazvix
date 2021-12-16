@@ -1,30 +1,30 @@
 /** @jsxRuntime classic */
 /** @jsx jsx */
-import { jsx, Box, Container } from 'theme-ui';
-import { rgba } from 'polished';
-import SectionHeading from 'components/section-heading';
-import Service from 'components/cards/service';
-import icon1 from 'assets/images/icons/service1.png';
-import icon2 from 'assets/images/icons/service2.png';
-import icon3 from 'assets/images/icons/service3.png';
+import { jsx, Box, Container } from "theme-ui";
+import { rgba } from "polished";
+import SectionHeading from "components/section-heading";
+import Service from "components/cards/service";
+import icon1 from "assets/images/icons/service1.png";
+import icon2 from "assets/images/icons/service2.png";
+import icon3 from "assets/images/icons/service3.png";
 
 const data = [
   {
     id: 1,
     icon: icon1,
-    title: 'Marketing & advertising',
+    title: "Marketing & advertising",
     description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
   },
   {
     id: 3,
     icon: icon2,
-    title: 'Ultimate development',
+    title: "Ultimate development",
     description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
   },
   {
     id: 4,
     icon: icon3,
-    title: 'Business Enterprise',
+    title: "Business Enterprise",
     description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
   },
 ];
@@ -52,7 +52,7 @@ export default Services;
 
 const styles = {
   section: {
-    backgroundColor: rgba('#FFF5ED', 0.5),
+    backgroundColor: rgba("#FFF5ED", 0.5),
     pt: [11, 11, 11, 12, 12, 12, 14],
     pb: [7, 7, 7, 9, 9, 10, 11],
   },
@@ -62,13 +62,13 @@ const styles = {
   },
   contentWrapper: {
     gap: 30,
-    display: 'grid',
-    justifyContent: ['center', null, null, 'unset'],
+    display: "grid",
+    justifyContent: ["center", null, null, "unset"],
     gridTemplateColumns: [
-      'repeat(1, 285px)',
-      'repeat(1, 325px)',
-      'repeat(1, 285px)',
-      'repeat(3, 1fr)',
+      "repeat(1, 285px)",
+      "repeat(1, 325px)",
+      "repeat(1, 285px)",
+      "repeat(3, 1fr)",
     ],
   },
 };

@@ -1,9 +1,9 @@
 /** @jsxRuntime classic */
 /** @jsx jsx */
-import { jsx, Box, Container, Button, Image } from 'theme-ui';
-import { rgba } from 'polished';
-import SectionHeading from 'components/section-heading';
-import illustration from 'assets/images/banner-illustration.png';
+import { jsx, Box, Container, Button, Image } from "theme-ui";
+import { rgba } from "polished";
+import SectionHeading from "components/section-heading";
+import illustration from "assets/images/banner-illustration.png";
 
 const Banner = () => {
   return (
@@ -31,14 +31,14 @@ export default Banner;
 
 const styles = {
   section: {
-    position: 'relative',
+    position: "relative",
     pt: [105, null, null, 140, 15, null, 170],
     pb: [8, null, null, 0],
     zIndex: 0,
-    ':before': {
-      backgroundColor: rgba('#FFF5ED', 0.5),
-      content: ['none', null, null, `''`],
-      position: 'absolute',
+    ":before": {
+      backgroundColor: rgba("#FFF5ED", 0.5),
+      content: ["none", null, null, `''`],
+      position: "absolute",
       left: 0,
       right: 0,
       bottom: 0,
@@ -47,10 +47,10 @@ const styles = {
     },
   },
   contentWrapper: {
-    display: 'flex',
-    alignItems: 'center',
-    flexDirection: 'column',
-    justifyContent: 'flex-end',
+    display: "flex",
+    alignItems: "center",
+    flexDirection: "column",
+    justifyContent: "flex-end",
   },
   heading: {
     mb: [30],
@@ -65,19 +65,19 @@ const styles = {
     },
   },
   illustration: {
-    display: ['block', null, null, 'flex'],
-    position: 'relative',
+    display: ["block", null, null, "flex"],
+    position: "relative",
     img: {
-      display: ['none', null, null, 'block'],
-      maxWidth: ['90%'],
-      m: ['0 auto'],
+      display: ["none", null, null, "block"],
+      maxWidth: ["90%"],
+      m: ["0 auto"],
     },
   },
   buttonWrapper: {
-    textAlign: ['center'],
-    position: ['static', null, null, 'absolute'],
-    left: '50%',
+    textAlign: ["center"],
+    position: ["static", null, null, "absolute"],
+    left: "50%",
     top: 0,
-    transform: ['unset', null, null, 'translateX(-50%)'],
+    transform: ["unset", null, null, "translateX(-50%)"],
   },
 };
