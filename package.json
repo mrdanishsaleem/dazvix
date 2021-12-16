@@ -13,6 +13,7 @@
     "next": "^12.0.7",
     "next-compose-plugins": "^2.2.1",
     "next-optimized-images": "^2.6.2",
+    "npm": "^8.3.0",
     "polished": "^4.0.5",
     "rc-drawer": "^4.2.1",
     "rc-tabs": "^11.7.3",
