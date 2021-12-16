@@ -2,10 +2,10 @@ import React from "react";
 import Head from "next/head";
 
 export default function SEO({
-  description = "startup landing descriptions",
-  author = "RedQ, Inc",
+  description = "Dazvix Solution is a progressing software company that caters to the needs of the clients efficiently & effectively by providing services.",
+  author = "Dazvix Solutions",
   meta,
-  title = "startup landing title",
+  title = "Dazvix Solutions",
 }) {
   const metaData = [
     {

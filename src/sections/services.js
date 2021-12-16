@@ -13,19 +13,19 @@ const data = [
     id: 1,
     icon: icon1,
     title: "Marketing & advertising",
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
   {
     id: 3,
     icon: icon2,
     title: "Ultimate development",
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
   {
     id: 4,
     icon: icon3,
     title: "Business Enterprise",
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
 ];
 
@@ -36,7 +36,7 @@ const Services = () => {
         <SectionHeading
           sx={styles.heading}
           title="Grow your startup with our Service"
-          description="Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents."
+          description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         />
         <Box sx={styles.contentWrapper}>
           {data?.map((item) => (

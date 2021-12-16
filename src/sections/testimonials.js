@@ -14,32 +14,32 @@ const data = [
   {
     id: 1,
     logo: uber,
-    author: "By Denny Albuz, Adviser of Paypal",
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    author: "Anonymous",
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 2,
     logo: google,
-    author: "By Denny Albuz, Adviser of Paypal",
-    quote: `“Qwilr Page we have made for them. Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a”`,
+    author: "Anonymous",
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 3,
     logo: paypal,
-    author: "By Denny Albuz, Adviser of Paypal",
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    author: "Anonymous",
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 4,
     logo: microsoft,
-    author: "By Denny Albuz, Adviser of Paypal",
-    quote: `“Qwilr Page we have made for them. Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a”`,
+    author: "Anonymous",
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 5,
     logo: dribbble,
-    author: "By Denny Albuz, Adviser of Paypal",
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    author: "Anonymous",
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
 ];
 
