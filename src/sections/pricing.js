@@ -60,8 +60,8 @@ const Blog = () => {
       <Container>
         <SectionHeading
           sx={styles.heading}
-          title="Popular blog post we update everyday"
-          description="Focus only on the meaning, we take care of the design. As soon as the meeting end you can export in one click."
+          title="Choose your pricing policy"
+          description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         />
         <Masonry options={masonryOptions} sx={styles.postContainer}>
           {data?.map((post) => (
