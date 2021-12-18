@@ -15,12 +15,7 @@ const data = [
     description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
     moreLink: "#explore-more",
     image: tabImage1,
-    list: [
-      "Quick Process",
-      "Commitment to Customers",
-      "Low Price Guarantee",
-      "60 Days Warranty",
-    ],
+    list: ["Reason 1", "Reason 2", "Reason 3", "Reason 4"],
   },
   {
     id: 2,
@@ -29,12 +24,7 @@ const data = [
     description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
     moreLink: "#explore-more",
     image: tabImage1,
-    list: [
-      "Quick Process",
-      "Commitment to Customers",
-      "Low Price Guarantee",
-      "60 Days Warranty",
-    ],
+    list: ["Reason 1", "Reason 2", "Reason 3", "Reason 4"],
   },
   {
     id: 3,
@@ -43,12 +33,7 @@ const data = [
     description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
     moreLink: "#explore-more",
     image: tabImage1,
-    list: [
-      "Quick Process",
-      "Commitment to Customers",
-      "Low Price Guarantee",
-      "60 Days Warranty",
-    ],
+    list: ["Reason 1", "Reason 2", "Reason 3", "Reason 4"],
   },
 ];
 
