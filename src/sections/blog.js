@@ -16,7 +16,7 @@ const data = [
     thumbnail: thumb1,
     showDescription: true,
     title: `How to work with prototype design with adobe xd featuring tools`,
-    description: `The 2019 Innovation by Design Awards honor the designers and businesses solving the problems of today and tomorrow. It is one of the most sought-after design`,
+    description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?`,
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const data = [
     thumbnail: null,
     showDescription: false,
     title: `Anti bias receives honorable gift mention at Fast Company’s most Innovation by Design Awards`,
-    description: `The 2019 Innovation by Design Awards honor the designers and businesses solving the problems of today and tomorrow. It is one of the most sought-after design`,
+    description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?`,
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const data = [
     thumbnail: thumb3,
     showDescription: false,
     title: `Multiple task wireframing with team management perform better`,
-    description: `The 2019 Innovation by Design Awards honor the designers and businesses solving the problems of today and tomorrow. It is one of the most sought-after design`,
+    description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?`,
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ const data = [
     thumbnail: thumb2,
     showDescription: true,
     title: `Multiple art board prototype with Figma`,
-    description: `Beyond launched anti bias, a Chrome extension that replaces LinkedIn profile photos`,
+    description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?`,
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const data = [
     thumbnail: thumb4,
     showDescription: false,
     title: `Team presentation with latest user interface & experience reach more`,
-    description: `The 2019 Innovation by Design Awards honor the designers and businesses solving the problems of today and tomorrow. It is one of the most sought-after design`,
+    description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?`,
   },
 ];
 

@@ -15,31 +15,31 @@ const data = [
     id: 1,
     logo: uber,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    quote: `“Lorem, ipsum dolor sit amet consectetur adipisicing elit.Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?”`,
   },
   {
     id: 2,
     logo: google,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Qwilr Page we have made for them. Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a”`,
+    quote: `“Lorem, ipsum dolor sit amet consectetur adipisicing elit.Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?”`,
   },
   {
     id: 3,
     logo: paypal,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    quote: `“Lorem, ipsum dolor sit amet consectetur adipisicing elit.Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?”`,
   },
   {
     id: 4,
     logo: microsoft,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Qwilr Page we have made for them. Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a”`,
+    quote: `“Lorem, ipsum dolor sit amet consectetur adipisicing elit.Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?”`,
   },
   {
     id: 5,
     logo: dribbble,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    quote: `“Lorem, ipsum dolor sit amet consectetur adipisicing elit.Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?”`,
   },
 ];
 

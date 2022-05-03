@@ -8,14 +8,14 @@ export const menuItems = [
     id: 2,
     title: 'About Us',
     items: [
-      {
-        path: '#!',
-        label: 'Support Center',
-      },
-      {
-        path: '#!',
-        label: 'Customer Support',
-      },
+      // {
+      //   path: '#!',
+      //   label: 'Support Center',
+      // },
+      // {
+      //   path: '#!',
+      //   label: 'Customer Support',
+      // },
       {
         path: '#!',
         label: 'About Us',
@@ -24,10 +24,10 @@ export const menuItems = [
         path: '#!',
         label: 'Copyright',
       },
-      {
-        path: '#!',
-        label: 'Popular Campaign',
-      },
+      // {
+      //   path: '#!',
+      //   label: 'Popular Campaign',
+      // },
     ],
   },
   {
@@ -50,38 +50,38 @@ export const menuItems = [
         path: '#!',
         label: 'Site Map',
       },
-      {
-        path: '#!',
-        label: 'Store Hours',
-      },
+      // {
+      //   path: '#!',
+      //   label: 'Store Hours',
+      // },
     ],
   },
-  {
-    id: 4,
-    title: 'My Account',
-    items: [
-      {
-        path: '#!',
-        label: 'Press inquiries',
-      },
-      {
-        path: '#!',
-        label: 'Social media ',
-      },
-      {
-        path: '#!',
-        label: 'directories',
-      },
-      {
-        path: '#!',
-        label: 'Images & B-roll',
-      },
-      {
-        path: '#!',
-        label: 'Permissions',
-      },
-    ],
-  },
+  // {
+  //   id: 4,
+  //   title: 'My Account',
+  //   items: [
+  //     {
+  //       path: '#!',
+  //       label: 'Press inquiries',
+  //     },
+  //     {
+  //       path: '#!',
+  //       label: 'Social media ',
+  //     },
+  //     {
+  //       path: '#!',
+  //       label: 'directories',
+  //     },
+  //     {
+  //       path: '#!',
+  //       label: 'Images & B-roll',
+  //     },
+  //     {
+  //       path: '#!',
+  //       label: 'Permissions',
+  //     },
+  //   ],
+  // },
   {
     id: 5,
     title: 'Connect',
