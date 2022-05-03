@@ -19,8 +19,8 @@ export default [
     path: 'blog',
     label: 'Blog',
   },
-  {
-    path: 'login',
-    label: 'Login',
-  },
+  // {
+  //   path: 'login',
+  //   label: 'Login',
+  // },
 ];

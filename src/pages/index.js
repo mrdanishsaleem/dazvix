@@ -16,8 +16,8 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <Layout>
         <SEO
-          title="Startup agency landing template"
-          description="Collection of free top of the line startup landing templates built using react/ next js. Free to download, simply edit and deploy! Updated weekly!"
+          title="Dazvix - Digital Marketing Agency, SEO, Web Development, Mobile Application Development"
+          description="Dazvix is a full Service Digital Marketing Agency that offers Web Design, Development, Mobile Application Development, SEO, PPC &amp; Social Media Management Services."
         />
         <Banner />
         <Services />

@@ -9,9 +9,8 @@ const BlogPost = ({ post }) => {
     <Box
       as="article"
       sx={styles.post}
-      className={`${post?.showDescription ? '' : 'no-description'} ${
-        !!post?.thumbnail ? '' : 'no-thumbnail'
-      }`}
+      className={`${post?.showDescription ? '' : 'no-description'} ${!!post?.thumbnail ? '' : 'no-thumbnail'
+        }`}
     >
       {!!post?.thumbnail && (
         <Flex as="figure" sx={styles.thumbnail}>
