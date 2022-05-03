@@ -16,7 +16,7 @@ export default function Header() {
           <Box as="header" sx={styles.header}>
             <Container>
               <Box sx={styles.headerInner}>
-                <Logo sx={styles.logo} />
+                {/* <Logo sx={styles.logo} /> */}
                 <Box as="nav" sx={styles.navbar} className="navbar">
                   <Box as="ul" sx={styles.navList}>
                     {menuItems.map(({ path, label }, i) => (

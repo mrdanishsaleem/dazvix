@@ -13,9 +13,9 @@ export default function Footer() {
       <Container>
         <Box sx={styles.footerTopInner}>
           <Box sx={styles.about}>
-            <Box sx={styles.logo}>
+            {/* <Box sx={styles.logo}>
               <Logo />
-            </Box>
+            </Box> */}
             <Box sx={styles.terms}>
               <Link path="#!">Terms of use</Link>
               <Text as="span">|</Text>
