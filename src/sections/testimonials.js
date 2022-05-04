@@ -15,31 +15,31 @@ const data = [
     id: 1,
     logo: uber,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 2,
     logo: google,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Qwilr Page we have made for them. Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a”`,
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 3,
     logo: paypal,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 4,
     logo: microsoft,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Qwilr Page we have made for them. Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a”`,
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
   {
     id: 5,
     logo: dribbble,
     author: 'By Denny Albuz, Adviser of Paypal',
-    quote: `“Whatever we create in Qwilr looks absolutely brilliant. It helps show our work in the best light, and is downright impressive when clients see a Qwilr Page we have made for them.”`,
+    quote: `“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”`,
   },
 ];
 
@@ -83,7 +83,7 @@ const styles = {
       mt: [8, null, null, 9, 11],
     },
     '.rc-tabs-nav-wrap': {
-      borderTop: `1px solid ${rgba('#01070D', 0.1)}`,
+      borderTop: `1px solid ${rgba('#01070D', 0.1)} `,
       justifyContent: 'center',
     },
     '.rc-tabs-tab': {
@@ -119,7 +119,7 @@ const styles = {
         pt: ['12px', null, null, '17px', '13px'],
         pl: [35, 35, 35, 10, 11],
         ':before': {
-          background: `url(${quote}) no-repeat`,
+          background: `url(${quote}) no - repeat`,
           content: `''`,
           position: 'absolute',
           width: 128,

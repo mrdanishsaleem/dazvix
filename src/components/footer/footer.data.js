@@ -34,10 +34,10 @@ export const menuItems = [
     id: 3,
     title: 'Our Information',
     items: [
-      {
-        path: '#!',
-        label: 'Return Policy ',
-      },
+      // {
+      //   path: '#!',
+      //   label: 'Return Policy ',
+      // },
       {
         path: '#!',
         label: 'Privacy Policy',

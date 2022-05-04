@@ -16,42 +16,42 @@ const data = [
     icon: icon4,
     moreLink: '#learn-more',
     title: '3D modeling & art',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
   {
     id: 2,
     icon: icon5,
     moreLink: '#learn-more',
     title: 'Digital promotion',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
   {
     id: 3,
     icon: icon6,
     moreLink: '#learn-more',
     title: 'Business Enterprise',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
   {
     id: 4,
     icon: icon7,
     moreLink: '#learn-more',
     title: 'Marketing & advertising',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
   {
     id: 5,
     icon: icon8,
     moreLink: '#learn-more',
     title: 'Ultimate development',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
   {
     id: 6,
     icon: icon9,
     moreLink: '#learn-more',
     title: 'Online support',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
   },
 ];
 
@@ -62,7 +62,7 @@ const OtherServices = () => {
         <SectionHeading
           sx={styles.heading}
           title="Other services you must appreciate"
-          description="Focus only on the meaning, we take care of the design. As soon as the meeting end you can export in one click into your preferred."
+          description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         />
         <Box sx={styles.contentWrapper}>
           {data?.map((item) => (

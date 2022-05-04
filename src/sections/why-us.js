@@ -26,7 +26,7 @@ const data = [
     id: 2,
     tabTitle: 'What’s our business promise?',
     title: `We will turn your idea in the successful business model framework`,
-    description: `Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
     moreLink: '#explore-more',
     image: tabImage1,
     list: [
@@ -40,7 +40,7 @@ const data = [
     id: 3,
     tabTitle: 'What’s our role model plan?',
     title: `We will turn your idea in the successful business model framework`,
-    description: `Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.`,
+    description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
     moreLink: '#explore-more',
     image: tabImage1,
     list: [

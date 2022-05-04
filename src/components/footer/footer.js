@@ -16,11 +16,11 @@ export default function Footer() {
             {/* <Box sx={styles.logo}>
               <Logo />
             </Box> */}
-            <Box sx={styles.terms}>
+            {/* <Box sx={styles.terms}>
               <Link path="#!">Terms of use</Link>
               <Text as="span">|</Text>
               <Link path="#!">Privacy</Link>
-            </Box>
+            </Box> */}
             <Text as="p" sx={styles.copyright}>
               Copyright by {new Date().getFullYear()} Dazvix
             </Text>
